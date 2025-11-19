@@ -1,6 +1,6 @@
 # Single Word Mono-Dictionary Extension
 
-Chrome based extension that allows users to generate concise, dictionary-like explanations for foreign words using the OpenAI API.
+Chrome based extension that allows users to generate concise, dictionary-like explanations for foreign words using REST API.
 
 ## Features
 
